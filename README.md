@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br />   
+
+### Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,arduino,html,css,js,git,github,c,cpp,java,mysql)](https://skillicons.dev)
+<br /> 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiZapata1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
