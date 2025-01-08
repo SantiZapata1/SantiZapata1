@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,js,cs,java,css,sql,c++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,js,cs,java,css,sql,react)](https://skillicons.dev)
 <br /> 
 
 
