@@ -6,7 +6,7 @@ Soy santi, programador y entusiasta de la tecnologia.
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,js,cs,cpp,java,css,postgresql,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,js,cs,dotnet,cpp,java,css,postgresql,react)](https://skillicons.dev)
 <br /> 
 
 
