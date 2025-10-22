@@ -79,13 +79,6 @@ Participé en el desarrollo de una aplicación web para la **reserva de turnos d
 📧 **Email:** [santiezapata.2@gmail.com](mailto:santiezapata.2@gmail.com)  
 💼 **LinkedIn:** [Santiago Zapata](https://www.linkedin.com/in/santiago-zapata-286a85263)  
 
----
-
-## 📊 Estadísticas de GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiZapata1&layout=compact&theme=tokyonight)
-
-
 
 ⭐ Si te interesa mi perfil, no dudes en conectar o visitar mis repositorios.
 
